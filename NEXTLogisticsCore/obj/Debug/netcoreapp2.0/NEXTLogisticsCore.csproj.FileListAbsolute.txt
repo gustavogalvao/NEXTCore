@@ -1,0 +1,11 @@
+/Users/user/Projects/NEXTLogisticsCore/NEXTLogisticsCore/bin/Debug/netcoreapp2.0/NEXTLogisticsCore.deps.json
+/Users/user/Projects/NEXTLogisticsCore/NEXTLogisticsCore/bin/Debug/netcoreapp2.0/NEXTLogisticsCore.runtimeconfig.json
+/Users/user/Projects/NEXTLogisticsCore/NEXTLogisticsCore/bin/Debug/netcoreapp2.0/NEXTLogisticsCore.runtimeconfig.dev.json
+/Users/user/Projects/NEXTLogisticsCore/NEXTLogisticsCore/bin/Debug/netcoreapp2.0/NEXTLogisticsCore.dll
+/Users/user/Projects/NEXTLogisticsCore/NEXTLogisticsCore/bin/Debug/netcoreapp2.0/NEXTLogisticsCore.pdb
+/Users/user/Projects/NEXTLogisticsCore/NEXTLogisticsCore/obj/Debug/netcoreapp2.0/NEXTLogisticsCore.csprojResolveAssemblyReference.cache
+/Users/user/Projects/NEXTLogisticsCore/NEXTLogisticsCore/obj/Debug/netcoreapp2.0/NEXTLogisticsCore.csproj.CoreCompileInputs.cache
+/Users/user/Projects/NEXTLogisticsCore/NEXTLogisticsCore/obj/Debug/netcoreapp2.0/NEXTLogisticsCore.AssemblyInfoInputs.cache
+/Users/user/Projects/NEXTLogisticsCore/NEXTLogisticsCore/obj/Debug/netcoreapp2.0/NEXTLogisticsCore.AssemblyInfo.cs
+/Users/user/Projects/NEXTLogisticsCore/NEXTLogisticsCore/obj/Debug/netcoreapp2.0/NEXTLogisticsCore.dll
+/Users/user/Projects/NEXTLogisticsCore/NEXTLogisticsCore/obj/Debug/netcoreapp2.0/NEXTLogisticsCore.pdb
